@@ -1,1 +1,2 @@
-# CS20-CSE2110-App-Xylophone
+# Xylophone
+Remember to add your name and student ID here!
